@@ -13,9 +13,9 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: javierbarretocp@gmail.com
-  phone: 312 167 6990
-  website: https://github.com/Javier-Barreto # No agregar http://
-  linkedin: 
+  phone: 3121676990
+  website: # No agregar http://
+  linkedin:
   github: Javier-Barreto
   gitlab:
   bitbucket:
@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Intermedio # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
