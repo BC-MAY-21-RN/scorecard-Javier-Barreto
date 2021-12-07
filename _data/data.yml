@@ -76,7 +76,7 @@ experiences:
     time: 2020 - 2021
     company: No Company
     details: |
-    Used Node.js, css and javascript for design a page that can add, modify, delete and search info in a db and show the information in HTML using DOM. Also, implemented a Login/Logout function in the page.
+      Used Node.js, css and javascript for design a page that can add, modify, delete and search info in a db and show the information in HTML using DOM. Also, implemented a Login/Logout function in the page.
 
   - role: Senior Software Engineer
     time: 2014 - 2015
