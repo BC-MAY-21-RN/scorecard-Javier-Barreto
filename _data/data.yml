@@ -43,32 +43,26 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
-    - item: I adapt easily to change
-      link: # dejar en blanco
-
     - item: Growth mindset
       link: # dejar en blanco
 
     - item: Commitment
       link: # dejar en blanco
 
-    - item: Flexibility
-      link: # dejar en blanco
-
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    A young student who wants to work as a backend developer of web pages and applications. I consider myself a serious and hard-working person. Competent with bring good results with conviction and motivation.
+    A young student who wants to work as a backend developer of web pages and applications. I consider myself a serious and hard-working person. Competent with bring good results with conviction and motivation. I like to learn new things. Sometimes I teach or help others about programming, I like to play video games and read medieval fantasy books.
 
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: 
+  - degree: Internet Technologies Engineer
     university: Universidad de Colima
     time: 2019 Oct - current
     details: |
-      Internet Technologies Engineer
+      Studying the carrer of Internet Technologies Engineer
 
   - degree: Technical programmer
     university: Universidad de Colima
@@ -78,21 +72,11 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: School Homeworks/Projects
+    time: 2020 - 2021
+    company: No Company
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+    Used Node.js, css and javascript for design a page that can add, modify, delete and search info in a db and show the information in HTML using DOM. Also, implemented a Login/Logout function in the page.
 
   - role: Senior Software Engineer
     time: 2014 - 2015
@@ -117,17 +101,14 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
+    - name: React Native
       level: 40%
 
-    - name: Tensorflow
+    - name: Kotlin
+      level: 20%
+
+    - name: JavaScript
       level: 60%
-
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
 
     - name: C/C++
       level: 40%
