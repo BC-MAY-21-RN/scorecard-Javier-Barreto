@@ -72,13 +72,13 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Student (Homework from school)
+  - role: School Project
     time: 2020 - 2021
     company: No Company
     details: |
       Used Node.js, css and javascript for design a page that can do a CRUD in an mysql database and show the information in HTML using DOM. Also, implemented a Login/Logout function in the page.
 
-  - role: Student (Homework from school)
+  - role: School Project
     time: 2015 - 2016
     company: No Company
     details: |
