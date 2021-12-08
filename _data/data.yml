@@ -109,6 +109,15 @@ skills:
     - name: C/C++
       level: 40%
 
+    - name: HTML
+      level: 100%
+
+    - name: CSS
+      level: 60%
+
+    - name: PHP
+      level: 40%
+
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
