@@ -34,26 +34,26 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Open-mindedness
+      link: # dejar en blanco
+      
+    - item: Adaptability
       link: # dejar en blanco
 
-    - item: Team Work
-      link: # dejar en blanco
-
-    - item: Time Management
-      link: # dejar en blanco
-
-    - item: Growth mindset
+    - item: Interpersonal skills
       link: # dejar en blanco
 
     - item: Commitment
+      link: # dejar en blanco
+     
+    - item: Willingness to learn
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    A young student who wants to work as a backend developer of web pages and applications. I consider myself a serious and hard-working person. Competent with bring good results with conviction and motivation. I like to learn new things. Sometimes I teach or help others about programming, I like to play video games and read medieval fantasy books.
+    A student who has worked with Node.js and JavaScript to make pages that can CRUD different APIs. I like to work in JavaScript, and I consider myself a Backend developer. I also consider myself a serious, hard-working, and competent person to achieves good results with conviction and motivation. I like to learn new things. Sometimes I teach or help others with programming, play strategic video games, and read medieval fantasy books.
 
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
@@ -94,14 +94,9 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
 
     - name: React Native
       level: 40%
-
-    - name: Kotlin
-      level: 20%
 
     - name: JavaScript
       level: 60%
@@ -116,7 +111,7 @@ skills:
       level: 60%
 
     - name: PHP
-      level: 40%
+      level: 20%
 
 # NO MODIFICAR
 footer: >
