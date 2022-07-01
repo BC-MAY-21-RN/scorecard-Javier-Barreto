@@ -86,7 +86,13 @@ experiences:
     company: No Company
     details: |
       Made a reservation seats system for a cinema (school project) using PHP, HTML and CSS.
-
+      
+  - role: Student
+      time: 2021 - 2022
+      company: BrightCoders
+      details: |
+        We made an app as a team called local food. This application was designed so that local businesses in Colima could register in the application to reach more people. So users can see the products of each store and place an order.
+        
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
