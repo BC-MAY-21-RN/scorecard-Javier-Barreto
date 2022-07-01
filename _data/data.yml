@@ -34,19 +34,22 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Open-mindedness
+    - item: Team Work
       link: # dejar en blanco
       
     - item: Adaptability
       link: # dejar en blanco
 
-    - item: Interpersonal skills
+    - item: Communication
       link: # dejar en blanco
 
     - item: Commitment
       link: # dejar en blanco
      
     - item: Willingness to learn
+      link: # dejar en blanco
+      
+    - item: Open-mindedness
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -76,13 +79,13 @@ experiences:
     time: 2020 - 2021
     company: No Company
     details: |
-      Used Node.js, css and javascript for design a page that can do a CRUD in an mysql database and show the information in HTML using DOM. Also, implemented a Login/Logout function in the page.
+      Used Node.js, css and javascript for design a page that can do a CRUD in a mysql database and show the information in HTML using DOM.
 
   - role: School Project
     time: 2015 - 2016
     company: No Company
     details: |
-      Used PHP, HTML and CSS for make a webpage for a cinema that allows you to reserve seats by clicking on them (like the ones in theaters today).
+      Made a reservation seats system for a cinema (school project) using PHP, HTML and CSS.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -103,15 +106,6 @@ skills:
 
     - name: C/C++
       level: 40%
-
-    - name: HTML
-      level: 100%
-
-    - name: CSS
-      level: 60%
-
-    - name: PHP
-      level: 20%
 
 # NO MODIFICAR
 footer: >
